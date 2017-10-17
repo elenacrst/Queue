@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shopping List App</string>
+    <string name="title_shopping_list">Shopping List</string>
+    <string name="title_complete_list">Complete list</string>
+    <string name="title_current_item">Current item</string>
+    <string name="action_done">Done</string>
+    <string name="title_settings">Settings</string>
+    <string name="action_bought_first">Bought first</string>
+    <string name="action_bought">Bought!</string>
+    <string name="add_first">Your list is empty. Click on the button at the bottom to add some items!</string>
+</resources>
